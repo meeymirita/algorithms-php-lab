@@ -1,6 +1,6 @@
 # Algorithms PHP Lab — CoffeeAlgo
 
-![Algorithms PHP](algorithms-php.png)
+![Algorithms PHP](https://meeymirita-files.storage.yandexcloud.net/algorithms-php/algorithms-php.png)
 
 **Статус: ⚪ методичка вычитана и проверена запуском (04.10.2026), прохождение впереди.**
 **Сложность: базовая.** Проект самостоятельный, кода из других лаб не берёт. Нужен только синтаксис PHP; первые сессии используют лишь циклы, массивы и функции, сложное нарастает постепенно.
