@@ -15,7 +15,7 @@ PHP 8.4 CLI, SPL, PHPUnit, Composer (только автозагрузка), Doc
 
 ## Формат
 
-Методичка [`Algo_Lab_CoffeeAlgo.html`](Algo_Lab_CoffeeAlgo.html) — открывается в браузере, прогресс по чекбоксам сохраняется локально. Вычитана 04.10.2026 (22 находки, все исправлены, числа в «Ожидаемом результате» пересняты запуском): находки — в репозитории [`lab-fixes`](https://github.com/meeymirita/lab-fixes), файл `backend/algorithms-php.md`.
+Методичка [`algorithms-php.html`](algorithms-php.html) — открывается в браузере, прогресс по чекбоксам сохраняется локально. Вычитана 04.10.2026 (22 находки, все исправлены, числа в «Ожидаемом результате» пересняты запуском): находки — в репозитории [`lab-fixes`](https://github.com/meeymirita/lab-fixes), файл `backend/algorithms-php.md`.
 
 ## Что внутри (13 сессий, ~44 ч)
 
